@@ -1,8 +1,4 @@
 {
-    "files": [
-        "index.d.ts",
-        "react-text-mask-tests.ts"
-    ],
     "compilerOptions": {
         "module": "commonjs",
         "lib": [
@@ -19,5 +15,10 @@
         "types": [],
         "noEmit": true,
         "forceConsistentCasingInFileNames": true
-    }
+    },
+    "files": [
+        "index.d.ts",
+        "level-tests.ts"
+    ]
 }
+  
