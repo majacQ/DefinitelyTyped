@@ -40,6 +40,10 @@
             "libraryName": "aggregate-error",
             "asOfVersion": "2.2.0"
         },
+        "airtable": {
+            "libraryName": "airtable",
+            "asOfVersion": "0.10.0"
+        },
         "ajv": {
             "libraryName": "ajv",
             "asOfVersion": "1.0.0"
@@ -399,6 +403,10 @@
         "ci-info": {
             "libraryName": "ci-info",
             "asOfVersion": "3.1.0"
+        },
+        "classnames": {
+            "libraryName": "classnames",
+            "asOfVersion": "2.3.0"
         },
         "clean-stack": {
             "libraryName": "clean-stack",
@@ -768,6 +776,10 @@
         "dotenv": {
             "libraryName": "dotenv",
             "asOfVersion": "8.2.0"
+        },
+        "double-metaphone": {
+            "libraryName": "double-metaphone",
+            "asOfVersion": "2.0.0"
         },
         "dva": {
             "libraryName": "dva",
@@ -2173,6 +2185,10 @@
             "libraryName": "menubar",
             "asOfVersion": "6.0.0"
         },
+        "meow": {
+            "libraryName": "meow",
+            "asOfVersion": "6.0.0"
+        },
         "metismenu": {
             "libraryName": "metismenu",
             "asOfVersion": "2.7.1"
@@ -2336,6 +2352,10 @@
         "next": {
             "libraryName": "next",
             "asOfVersion": "9.0.0"
+        },
+        "next-auth": {
+            "libraryName": "next-auth",
+            "asOfVersion": "3.15.0"
         },
         "next-redux-wrapper": {
             "libraryName": "next-redux-wrapper",
@@ -3733,6 +3753,10 @@
         "sweetalert": {
             "libraryName": "sweetalert",
             "asOfVersion": "2.0.4"
+        },
+        "syllable": {
+            "libraryName": "syllable",
+            "asOfVersion": "5.0.0"
         },
         "systeminformation": {
             "libraryName": "systeminformation",
