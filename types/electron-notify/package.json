@@ -1,6 +1,10 @@
 {
     "private": true,
     "dependencies": {
+  <<<<<<< snyk-fix-3c2defcd84b614d7d7b03710157d60d6
+        "electron": "^2.0.18"
+  =======
         "electron": "^9.4.0"
+  >>>>>>> master
     }
 }
