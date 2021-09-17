@@ -1,10 +1,14 @@
 {
     "private": true,
     "dependencies": {
+  <<<<<<< snyk-fix-82a412cd52687a8cea4ccb3757064b9b
+        "electron": "12.0.13"
+  =======
   <<<<<<< snyk-fix-504f5a7861e0b39685e39d0c6e6d086e
         "electron": "11.4.10"
   =======
         "electron": "11.4.11"
+  >>>>>>> master
   >>>>>>> master
     }
 }
