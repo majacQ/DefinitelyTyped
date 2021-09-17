@@ -2,6 +2,10 @@
     "private": true,
     "dependencies": {
         "@storybook/addons": "^5.2.0",
+  <<<<<<< snyk-fix-a26964cd09190924c8635773addee4e8
+        "@storybook/react": "^6.1.20"
+  =======
         "@storybook/react": "^6.2.0"
+  >>>>>>> master
     }
 }
