@@ -1,6 +1,18 @@
 {
     "private": true,
     "dependencies": {
+  <<<<<<< snyk-fix-ba9e2fe8a56421baddc16070107f47a1
         "electron": "^12.0.13"
+  =======
+  <<<<<<< snyk-fix-ee91b2a909cd40a7a6c7cfedd1d012ff
+        "electron": "^12.0.13"
+  =======
+  <<<<<<< snyk-fix-0a6191ddf747c9f9c22d6a043f573b6d
+        "electron": "^11.4.10"
+  =======
+        "electron": "^11.4.11"
+  >>>>>>> master
+  >>>>>>> master
+  >>>>>>> master
     }
 }
